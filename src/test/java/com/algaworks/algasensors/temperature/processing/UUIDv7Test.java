@@ -1,6 +1,9 @@
 package com.algaworks.algasensors.temperature.processing;
 
 import static org.assertj.core.api.Assertions.assertThat;
+
+import com.algaworks.algasensors.temperature.processing.common.IdGenerator;
+import com.algaworks.algasensors.temperature.processing.common.UUIDv7Utils;
 import org.junit.jupiter.api.Test;
 
 import java.time.OffsetDateTime;

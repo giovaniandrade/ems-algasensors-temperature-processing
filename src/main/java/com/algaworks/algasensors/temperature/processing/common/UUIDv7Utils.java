@@ -1,4 +1,4 @@
-package com.algaworks.algasensors.temperature.processing;
+package com.algaworks.algasensors.temperature.processing.common;
 
 import java.time.OffsetDateTime;
 import java.time.ZoneId;
